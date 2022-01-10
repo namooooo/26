@@ -1,0 +1,11 @@
+#{margin:0; padding:0;}
+#top_bar {position: fixed; top: 0; left: 0; background-color: #e5ee10; height:100px;}
+
+#bottom_bar {position: fixed; top: 0; left: 0; background-color:#e5ee10; height:100px;}
+
+#left_bar {position: fixed; top: 0; left: 0; width: 300px;
+    background-color: #25c8de; height:100px;}
+
+#right_bar {position: fixed; top: 0; left: 0; background-color:#e5ee10; height:100px;}
+
+#wrap {margin: 100px 400px 100px 300px; background-color: #ffffff;}
